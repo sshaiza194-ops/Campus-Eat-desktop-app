@@ -1,3 +1,6 @@
+
+<img width="463" height="231" alt="image" src="https://github.com/user-attachments/assets/f0d86ec8-e1cf-4f8a-a904-ae13d5574bc0" />
+
 # My App
 
 An app built with [Builder.io](https://www.builder.io) on the
