@@ -29,4 +29,4 @@ to skip sign-in while developing.
 Framework docs: [agent-native.com/docs](https://agent-native.com/docs?utm_source=github&utm_medium=referral&utm_content=fusion-starter-readme).
 
 ## netlify
-https://effortless-brioche-704d76.netlify.app
+https://cheerful-dasik-003e37.netlify.app/
