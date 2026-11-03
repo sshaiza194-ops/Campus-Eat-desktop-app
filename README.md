@@ -27,3 +27,6 @@ to skip sign-in while developing.
 - `drizzle/`: schema and migrations; start with `drizzle/START_HERE.md`
 
 Framework docs: [agent-native.com/docs](https://agent-native.com/docs?utm_source=github&utm_medium=referral&utm_content=fusion-starter-readme).
+
+## netlify
+https://effortless-brioche-704d76.netlify.app
